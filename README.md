@@ -9,10 +9,10 @@ I was suprised this function wasn't there as not being able to search your own l
 Python is not an ideal language to have written this in, JavaScript would make it possible for others to use it easily and also make the privacy/security side easier as there are examples on the web already of how to do this properly! However, what's done is done and so if you want to use this script yourself you will have to take the following steps:
 
 1. Have python installed, sorry! Next project: translate to Javascript!
-2. install unidecode, because of accents: '''pip install unidecode''' 
+2. install unidecode, because of accents: ```pip install unidecode```
 3. get a Spotify Developer account (easy email sign up process)
 4. find your CLIENT ID + CLIENT SECRET. I followed this tutorial https://stmorse.github.io/journal/spotify-api.html
-5. add these to the script yourself in place of ''' 'yourclientid' ''' and ''' 'yourclientsecret' ''' 
+5. add these to the script yourself in place of ```'yourclientid'``` and ```'yourclientsecret'```
 6. run the script from the command-line or from an IDE or whatever way you choose
 
 ### Possible Extensions
