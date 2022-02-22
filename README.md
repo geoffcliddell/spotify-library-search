@@ -6,7 +6,7 @@ I was suprised this function wasn't there as not being able to search your own l
 
 ## Important note for 
 
-Python is not an ideal language to have written this in, JavaScript would make it possible for others to use it easily and also make the privacy/security side easier as there are examples on the web already of how to do this properly! However, what's done is done and so if you want to use this script yourself you will have to take the following easy steps:
+Python is not an ideal language to have written this in, JavaScript would make it possible for others to use it easily and also make the privacy/security side easier as there are examples on the web already of how to do this properly! However, what's done is done and so if you want to use this script yourself you will have to take the following steps:
 
 1. Have python installed, sorry! Next project: translate to Javascript!
 2. install unidecode, because of accents: '''pip install unidecode''' 
